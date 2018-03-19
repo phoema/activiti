@@ -24,7 +24,7 @@ import phoema.activiti.service.ActivitiService;
  * springboot快速启动项
  * 可以使用其他方式启动，通过maven可以进行控制
  * @author jiahh
- *
+ * 
  */
 @SpringBootApplication
 @EnableAutoConfiguration
